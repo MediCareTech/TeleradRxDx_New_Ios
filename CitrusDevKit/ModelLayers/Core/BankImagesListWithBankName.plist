@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ICICI Bank</key>
+	<string>icici_bank.png</string>
+	<key>AXIS Bank</key>
+	<string>axis_bank.png</string>
+	<key>Citibank</key>
+	<string>citi_bank.png</string>
+	<key>SBI Bank</key>
+	<string>State_bank_of_india.png</string>
+	<key>Deutsche Bank</key>
+	<string>detuch_bank.png</string>
+	<key>Union Bank</key>
+	<string>Union_bank.png</string>
+	<key>Indian Bank</key>
+	<string>indian_bank.png</string>
+	<key>Federal Bank</key>
+	<string>Federal_bank.png</string>
+	<key>HDFC Bank</key>
+	<string>hdfc.png</string>
+	<key>IDBI Bank</key>
+	<string>idbi.png</string>
+	<key>State Bank of Hyderabad</key>
+	<string>State_bank_of_hyderabad.png</string>
+	<key>State Bank of Bikaner and Jaipur</key>
+	<string>State_bank_of_bikaner_and_jaipur.png</string>
+	<key>State Bank of Mysore</key>
+	<string>State_bank_of_mysore.png</string>
+	<key>State Bank of Travancore</key>
+	<string>State_Bank_of_Travancore.png</string>
+	<key>Andhra Bank</key>
+	<string>andra_bank.png</string>
+	<key>Bank of India</key>
+	<string>bank_of_india.png</string>
+	<key>Bank of Maharashtra</key>
+	<string>bank_of_maharshtra.png</string>
+	<key>Central Bank of India</key>
+	<string>central_bank.png</string>
+	<key>City Union Bank</key>
+	<string>citi_union_bank.png</string>
+	<key>Corporation Bank</key>
+	<string>corporation_bank.png</string>
+	<key>DCB Bank Personal</key>
+	<string>DCB.png</string>
+	<key>Indian Overseas Bank</key>
+	<string>Indian_overseas_bank.png</string>
+	<key>IndusInd Bank</key>
+	<string>indusind_bank.png</string>
+	<key>ING Vysya Bank (now Kotak)</key>
+	<string>kotak_mahindra.png</string>
+	<key>United Bank of India</key>
+	<string>united_bank_of_india.png</string>
+	<key>Vijaya Bank</key>
+	<string>vijaya_bank.png</string>
+	<key>Catholic Syrian Bank</key>
+	<string>Catholic</string>
+	<key>Bank of Baroda</key>
+	<string>Bank_of_baroda.png</string>
+	<key>ICICI Corporate Bank</key>
+	<string>icici_bank.png</string>
+	<key>UCO Bank</key>
+	<string>UCO_bank.png</string>
+</dict>
+</plist>
